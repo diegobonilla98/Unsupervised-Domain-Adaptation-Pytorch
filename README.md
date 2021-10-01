@@ -5,3 +5,5 @@ Semipersonal implementation of the paper "Unsupervised Domain Adaptation by Back
 
 Link to paper [here](https://arxiv.org/pdf/1409.7495.pdf).
 As is one of my first projects made in Pytorch, some of the training procedure, model creation and the Gradient Reverse layer, is taken/inspired from [zengjichuan](https://github.com/zengjichuan/DANN)
+
+The model archived pretty amazing performance on testing data, so I guess target accomplished.
